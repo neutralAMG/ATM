@@ -1,0 +1,14 @@
+c:\Users\aleja\OneDrive\Escritorio\ATM\ATM\bin\Debug\net8.0\ATM.exe
+c:\Users\aleja\OneDrive\Escritorio\ATM\ATM\bin\Debug\net8.0\ATM.deps.json
+c:\Users\aleja\OneDrive\Escritorio\ATM\ATM\bin\Debug\net8.0\ATM.runtimeconfig.json
+c:\Users\aleja\OneDrive\Escritorio\ATM\ATM\bin\Debug\net8.0\ATM.dll
+c:\Users\aleja\OneDrive\Escritorio\ATM\ATM\bin\Debug\net8.0\ATM.pdb
+c:\Users\aleja\OneDrive\Escritorio\ATM\ATM\obj\Debug\net8.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aleja\OneDrive\Escritorio\ATM\ATM\obj\Debug\net8.0\ATM.AssemblyInfoInputs.cache
+c:\Users\aleja\OneDrive\Escritorio\ATM\ATM\obj\Debug\net8.0\ATM.AssemblyInfo.cs
+c:\Users\aleja\OneDrive\Escritorio\ATM\ATM\obj\Debug\net8.0\ATM.csproj.CoreCompileInputs.cache
+c:\Users\aleja\OneDrive\Escritorio\ATM\ATM\obj\Debug\net8.0\ATM.dll
+c:\Users\aleja\OneDrive\Escritorio\ATM\ATM\obj\Debug\net8.0\refint\ATM.dll
+c:\Users\aleja\OneDrive\Escritorio\ATM\ATM\obj\Debug\net8.0\ATM.pdb
+c:\Users\aleja\OneDrive\Escritorio\ATM\ATM\obj\Debug\net8.0\ATM.genruntimeconfig.cache
+c:\Users\aleja\OneDrive\Escritorio\ATM\ATM\obj\Debug\net8.0\ref\ATM.dll
