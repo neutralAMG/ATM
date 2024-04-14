@@ -1,7 +1,6 @@
 public interface ICajero
 {
-
-
+    public Usuario CurrentUser { get; set; }
     void Retirar(int amount);
     void Ingresar(int amount);
     void CheckSaldo();

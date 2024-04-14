@@ -11,10 +11,12 @@ public class Cajero : ICajero
                 Email = "C"
             },
         ];
+        CurrentUser = null;
     }
     private List<Usuario> users;
 
-    public Usuario? CurrentUser = null;
+    public Usuario? CurrentUser { get; set; }
+
 
 
     public void Retirar(int amount)
